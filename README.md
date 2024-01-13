@@ -1,4 +1,4 @@
-# BreadcrumbsSimple-API-with-Spring-Boot
+# Simple-API-with-Spring-Boot
 This project focuses on building a simple API using Spring Boot.
 Spring Boot simplifies the development of Java-based applications by providing a convention-over-configuration approach and pre-built templates.
 
