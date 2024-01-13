@@ -2,6 +2,8 @@
 This project focuses on building a simple API using Spring Boot.
 Spring Boot simplifies the development of Java-based applications by providing a convention-over-configuration approach and pre-built templates.
 
+<img src="diagram.png" alt="Diagram" width="500">
+
 ### Technologies:
 - Spring Boot: The core framework that simplifies the development of Java applications, offering features like auto-configuration and a wide range of built-in modules.
 - Spring Web: A module within the Spring framework that facilitates the development of web applications, including RESTful APIs.
